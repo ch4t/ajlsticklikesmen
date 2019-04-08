@@ -44,25 +44,3 @@ body {
 		background-position: 0% 50%
 	}
 }
-
-h6 {
-	font-family: 'Quicksand';
-	font-weight: 300;
-  font-size: 224px;
-	text-align: center;
-	position: flex;
-	top: 0%;
-	right: 0;
-	left: 0;
-}
-
-h5 {
-	font-family: 'Quicksand';
-	font-weight: 300;
-  font-size: 48px;
-	text-align: center;
-	position: flex;
-	top: 50%;
-	right: 0;
-	left: 0;
-}
